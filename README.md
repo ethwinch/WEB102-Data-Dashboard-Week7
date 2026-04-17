@@ -35,16 +35,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="https://drive.google.com/file/d/1PbH_sHL8rw5VkqM4bflyLrBe2inH-4m9/view?usp=sharing" target="_blank">Here's a walkthrough of implemented user stories.</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ezGif
 
 ## Notes
 
-I had many challenges with the library not importing correctly, and the way the json data is handeled with the WeatherBit API.
+I had many challenges with the library not importing correctly, running out of API calls for the day, and the way the json data is handeled with the WeatherBit API.
 
 ## License
 
