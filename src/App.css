@@ -1,0 +1,23 @@
+.page{
+  margin: auto;
+}
+
+.summary-cards{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 2em;
+}
+.card{
+  background-color: rgba(255, 255, 255, 0.212);
+  box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.797);
+  border-radius: 6px;
+
+  padding: 1em;
+
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.filter-results ul{
+  list-style: none;
+}
